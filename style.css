@@ -1,0 +1,36 @@
+html {
+    background-color: black;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 80%;
+}
+
+body {
+    background-color:rgb(111, 164, 140);
+    width: 1200px;
+    height: 950px;
+    margin: auto auto;
+}
+
+.columns {
+    display: grid;
+    grid-template-columns: auto auto;
+    margin-left: 60px;
+  }
+
+img {
+    margin-top: 50px;
+    height: 25%;
+    width: 52%;
+}
+
+p {
+    width: 350px;
+}
+
+a {
+    font-size: 120%;
+}
+
+#title {
+    margin-top: 50px;
+}
